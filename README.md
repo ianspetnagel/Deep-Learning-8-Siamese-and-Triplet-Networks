@@ -3,6 +3,7 @@
 For this project I am using contrastive loss in order to create a siamese network.
 
 Siamese networks use two identical networks (shared weights) to minimize the difference between similar inputs and maximize differnece between dissimilar inputs.
+*Please contact me for the dataset*
 
 --> Visualize.py as the start file
 
